@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Web Saya</title>
+</head>
+<body>
+  <h1>Halo, saya adalah Pembuat Website</h1>
+  <p>Nama: <strong>John Doe</strong></p>
+
+  <p>Ini adalah teks random: <em>"LOW PROBABILITY DOESN'T MATTER ZERO".</em></p>
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/PNG_transparency_demonstration_1.png/640px-PNG_transparency_demonstration_1.png" 
+       alt="Contoh Gambar" width="400"/>
+
+  <p>JANGAN BERHARAP LEBIH, INI CUMA BELAJAR! Terima kasih telah mengunjungi website saya!</p>
+</body>
+</html>
